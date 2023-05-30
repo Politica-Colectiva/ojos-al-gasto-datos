@@ -31,7 +31,7 @@ Ver datos procesados sobre cuenta públicas municipales.
 ### Documentos originales de respuesa a solicitudes
 Los datos originales son respuestas directas a las solicitudes de transparencia, almacenadas en su formato original en la siguiente carpeta pública de Google Drive.
 
-Ver documentos originales con respuestas.
+Ver carpeta con documentos originales con respuestas.
 
 ### Frecuencia de Actualización
 Los datos se actualizan cada trimestre. A medida que los gobiernos estatales y municipales publican sus Cuentas Públicas trimestrales, se descargan, procesan y actualizan en este repositorio.
