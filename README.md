@@ -64,7 +64,7 @@ Agradecemos a quienes han colaborado y hecho posible este proyecto:
 - .
 
 ## ¿Quiénes somos?
-Somos una organización de la sociedad civil que investiga y propone acciones a nivel estatal y municipal para incentivar la participación ciudadana y mejorar el desempeño de los gobiernos, en temas de transparencia, finanzas públicas, y combate a la corrupción. 
+**[Política Colectiva](politicacolectiva.com/)** somos una organización de la sociedad civil que investiga y propone acciones a nivel estatal y municipal para incentivar la participación ciudadana y mejorar el desempeño de los gobiernos, en temas de transparencia, finanzas públicas, y combate a la corrupción. 
 
 A través de proyectos como _Ojos al Gasto_, trabajamos para fomentar la transparencia, la competencia y la eficiencia en la gestión de los recursos públicos.
 
