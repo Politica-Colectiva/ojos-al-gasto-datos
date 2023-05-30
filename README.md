@@ -34,15 +34,17 @@ Los datos de los presupuestos de los Estados se obtienen a través de solicitude
 Los datos originales son las respuestas directas a las solicitudes de transparencia y se almacenan en su formato original, como documentos PDF o fotografías, en una carpeta pública de Google Drive. Los datos limpios son versiones procesadas de estos documentos, donde la información ha sido extraída, normalizada y organizada en un formato más utilizable. 
 
 ### Datos de Presupuestos Públicos de Estados
-Ver datos procesados sobre cuenta públicas estatales.
+Solicitamos y procesamos datos sobre cuentas públicas de los 32 estados del país.
+#### [Ver datos estatales](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/tree/main/datos/estados)
 
 ### Datos de Presupuestos Públicos de Municipios
-Ver datos procesados sobre cuenta públicas municipales.
+Solicitamos y procesamos datos sobre cuentas públicas de 60 municipios del país, entre los que encuentran todas las capitales de los estados y los municipios más poblados.
+#### [Ver datos municipales](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/tree/main/datos/municipios)
 
 ### Documentos originales de respuesa a solicitudes
 Los datos originales son respuestas directas a las solicitudes de transparencia, almacenadas en su formato original en la siguiente carpeta pública de Google Drive.
 
-Ver carpeta con documentos originales con respuestas.
+#### [Ver carpeta con documentos originales](https://politicacolectiva.com/)
 
 ### Frecuencia de Actualización
 Los datos se actualizan cada trimestre. A medida que los gobiernos estatales y municipales publican sus Cuentas Públicas trimestrales, se descargan, procesan y actualizan en este repositorio.
