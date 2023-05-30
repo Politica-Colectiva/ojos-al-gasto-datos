@@ -47,24 +47,26 @@ Los datos originales son respuestas directas a las solicitudes de transparencia,
 #### [Ver carpeta con documentos originales](https://politicacolectiva.com/)
 
 ### Frecuencia de Actualización
-Los datos se actualizan cada trimestre. A medida que los gobiernos estatales y municipales publican sus Cuentas Públicas trimestrales, se descargan, procesan y actualizan en este repositorio.
+Los datos se actualizan cada trimestre. A medida que los gobiernos estatales y municipales publican sus Cuentas Públicas trimestrales, se generan solicitudes de transparencia, descargan, procesan y actualizan en este repositorio.
 
 
 ## Contribuciones
-Nos encantaría que te unieras a nosotros para mejorar _Ojos al Gasto_. Si estás interesado en hacer una contribución, por favor escbríbenos a hola@politicacolectiva.com
+Nos encantaría que te sumes este esfuerzo y mejorar _Ojos al Gasto_. Si te interesa contribuir, por favor escbríbenos a hola@politicacolectiva.com
 
 ## Licencia
 Este proyecto está licenciado bajo Open Data Commons Open Database License (ODbL), consulta el archivo [LICENSE.md](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/blob/main/LICENCE.md) para más detalles.
 
 ## Agradecimientos
-Agradecemos a todos nuestros colaboradores y patrocinadores que han hecho posible este proyecto:
+Agradecemos a quienes han colaborado y hecho posible este proyecto:
 - .
 - .
 - .
 - .
 
 ## ¿Quiénes somos?
-Política Colectiva es una organización que cree en el poder de la información y la participación ciudadana para impulsar cambios significativos. A través de proyectos como _Ojos al Gasto_, trabajamos para fomentar la transparencia, la competencia y la eficiencia en la gestión de los recursos públicos.
+Somos una organización de la sociedad civil que investiga y propone acciones a nivel estatal y municipal para incentivar la participación ciudadana y mejorar el desempeño de los gobiernos, en temas de transparencia, finanzas públicas, y combate a la corrupción. 
+
+A través de proyectos como _Ojos al Gasto_, trabajamos para fomentar la transparencia, la competencia y la eficiencia en la gestión de los recursos públicos.
 
 ## Contacto
 Si quieres contribuir a este esfuerzo o tienes alguna pregunta, comentario o sugerencia, no dudes en contactarnos a hola@politicacolectiva.com.
