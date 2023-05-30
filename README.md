@@ -41,7 +41,7 @@ Los datos se actualizan cada trimestre. A medida que los gobiernos estatales y m
 Nos encantaría que te unieras a nosotros para mejorar _Ojos al Gasto_. Si estás interesado en hacer una contribución, por favor escbríbenos a hola@politicacolectiva.com
 
 ## Licencia
-Este proyecto está licenciado bajo Open Data Commons Open Database License (ODbL), consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está licenciado bajo Open Data Commons Open Database License (ODbL), consulta el archivo [LICENSE.md](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/blob/main/LICENCE.md) para más detalles.
 
 ## Agradecimientos
 Agradecemos a todos nuestros colaboradores y patrocinadores que han hecho posible este proyecto:
