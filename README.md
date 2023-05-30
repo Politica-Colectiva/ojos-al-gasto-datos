@@ -1,6 +1,9 @@
 # Ojos al Gasto: Datos abiertos
 La plataforma que transparenta cuentas públicas locales en México.
 
+![ojosalgasto-cover-01-min](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/assets/6744123/3e0b0bfc-e85c-44e7-8c51-13c12924d175)
+
+
 ## Descripción
 _Ojos al Gasto_ es un proyecto de transparencia, análisis, divulgación, pedagogía e incidencia enfocado en el dinero público de los estados y municipios de México. Nuestro objetivo es democratizar el entendimiento de las finanzas públicas e incentivar la participación ciudadana en torno a su uso.
 
@@ -12,6 +15,14 @@ Este proyecto surge de la necesidad de una mayor transparencia y participación 
 2. Identificar áreas de oportunidad y buenas prácticas en el manejo de las finanzas locales, y así, impulsar la competitividad en materia de ingresos e inversión del presupuesto público;
 3. Incentivar la participación ciudadana en materia de finanzas públicas a nivel local;
 4. Descentralizar y desfederalizar la discusión pública de los presupuestos públicos.
+
+## Sobre la plataforma
+Hemos desarrollado una plataforma abierta que permite explorar, visualizar y comparar la información solicitada a los 32 estados del país y a 60 municipios, entre los que están las capitales de cada estado y los municipios más poblados.
+
+![ojosalgasto-demo-01-min](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/assets/6744123/d4a86357-6e98-4977-b390-54f7a4bd3f7b)
+
+### [¡Explora la plataforma!](https://politicacolectiva.com/ojos-al-gasto/)
+
 
 ## Consulta los datos
 
