@@ -33,6 +33,14 @@ Los datos de los presupuestos de los Estados se obtienen a través de solicitude
 
 Los datos originales son las respuestas directas a las solicitudes de transparencia y se almacenan en su formato original, como documentos PDF o fotografías, en una carpeta pública de Google Drive. Los datos limpios son versiones procesadas de estos documentos, donde la información ha sido extraída, normalizada y organizada en un formato más utilizable. 
 
+De cada uno de estos gobiernos revisamos la información presupuestaria que consideramos más importante, misma que se estructura en cuatro documentos específicos:
+
+- **Estado Analítico de Ingresos Detallado:** Explica cuánto recaudan los gobiernos. ([Conoce más](https://www.conac.gob.mx/work/models/CONAC/normatividad/CLDF_01_01_001.pdf))
+- **Clasificación por Objeto del Gasto:** Transparenta el gasto de cada gobierno en función de 9 capítulos y 62 conceptos. ([Conoce más](https://www.conac.gob.mx/work/models/CONAC/normatividad/NOR_01_02_006.pdf))
+- **Clasificación Funcional del Gasto:** Describe el gasto de los gobiernos en 4 finalidades y 28 funciones. ([Conoce más](https://www.conac.gob.mx/work/models/CONAC/normatividad/NOR_01_02_003.pdf))
+- **Clasificación Administrativa:** Indica cuánto gastan las diferentes unidades administrativas que integran cada gobierno.  ([Conoce más](https://www.conac.gob.mx/work/models/CONAC/normatividad/NOR_01_02_002.pdf))
+
+
 ### Datos de Presupuestos Públicos de Estados
 Solicitamos y procesamos datos sobre cuentas públicas de los 32 estados del país.
 #### [Ver datos estatales](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/tree/main/datos/estados)
@@ -56,12 +64,6 @@ Nos encantaría que te sumes este esfuerzo y mejorar _Ojos al Gasto_. Si te inte
 ## Licencia
 Este proyecto está licenciado bajo Open Data Commons Open Database License (ODbL), consulta el archivo [LICENSE.md](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/blob/main/LICENCE.md) para más detalles.
 
-## Agradecimientos
-Agradecemos a quienes han colaborado y hecho posible este proyecto:
-- .
-- .
-- .
-- .
 
 ## ¿Quiénes somos?
 **[Política Colectiva](politicacolectiva.com/)** somos una organización de la sociedad civil que investiga y propone acciones a nivel estatal y municipal para incentivar la participación ciudadana y mejorar el desempeño de los gobiernos, en temas de transparencia, finanzas públicas, y combate a la corrupción. 
