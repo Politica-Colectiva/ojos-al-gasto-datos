@@ -52,7 +52,7 @@ Solicitamos y procesamos datos sobre cuentas públicas de 60 municipios del paí
 ### Documentos originales de respuesa a solicitudes
 Los datos originales son respuestas directas a las solicitudes de transparencia, almacenadas en su formato original en la siguiente carpeta pública de Google Drive.
 
-#### [Ver carpeta con documentos originales](https://politicacolectiva.com/)
+#### [Ver carpeta con documentos originales](https://drive.google.com/drive/u/1/folders/120iUn6kzhLSACYULPPrTsR3Em8J1UK0y)
 
 ### Frecuencia de Actualización
 Los datos se actualizan cada trimestre. A medida que los gobiernos estatales y municipales publican sus Cuentas Públicas trimestrales, se generan solicitudes de transparencia, descargan, procesan y actualizan en este repositorio.
