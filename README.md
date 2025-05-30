@@ -49,6 +49,8 @@ Solicitamos y procesamos datos sobre cuentas públicas de los 32 estados del pa�
 Solicitamos y procesamos datos sobre cuentas públicas de 60 municipios del país, entre los que encuentran todas las capitales de los estados y los municipios más poblados.
 #### [Ver datos municipales](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/tree/main/datos/municipios)
 
+*Nota: El municipio de San Pedro Tlaquepaque, Jalisco, fue el único municipio que no ha transparentado la información sobre su ejercicio en 2024, por lo que solo se muestran los datos sobre su presupuesto aprobado.
+
 ### Documentos originales de respuesa a solicitudes
 Los datos originales son respuestas directas a las solicitudes de transparencia, almacenadas en su formato original en la siguiente carpeta pública de Google Drive.
 
