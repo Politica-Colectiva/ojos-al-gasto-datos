@@ -1,4 +1,4 @@
-﻿Municipio,Año,Código,Concepto,Aprobado,Devengado,Observaciones
+Municipio,Año,Código,Concepto,Aprobado,Devengado,Observaciones
 Acapulco de Juarez,2021,COG01, Servicios Personales               ,2034383834.60,2140638794.21,x
 Acapulco de Juarez,2021,COG11,Remuneraciones al Personal  de Carácter Permanente,566694457.88,611148705.24,x
 Acapulco de Juarez,2021,COG12,Remuneraciones al Personal  de Carácter Transitorio,223886133.54,205286748.78,x
@@ -16494,8 +16494,8 @@ Tultitlan,2019,COG92,Intereses de la Deuda Pública,14600000.00,11731195.50,x
 Tultitlan,2019,COG93,Comisiones de la Deuda Pública,0.00,0.00,x
 Tultitlan,2019,COG94,Gastos de la Deuda Pública,0.00,0.00,x
 Tultitlan,2019,COG95,Costo por Coberturas,0.00,0.00,x
-Tultitlan,2019,COG96,Apoyos Financieros,0.00,0 00,x
-Tultitlan,2019,COG97,Adeudos de Ejercicios Fiscales Anteriores (ADEFAS)1,34722231.89,0 00,x
+Tultitlan,2019,COG96,Apoyos Financieros,0.00,0.00,x
+Tultitlan,2019,COG97,Adeudos de Ejercicios Fiscales Anteriores (ADEFAS)1,34722231.89,0.00,x
 Tultitlan,2019,COGTOT,Total del Gasto,1723934203.50,1745937120.94,x
 Veracruz,2019,COG01, Servicios Personales               ,865180750.74,1018006077.96,x
 Veracruz,2019,COG11,Remuneraciones al Personal  de Carácter Permanente,190550003.54,211074108.02,x
@@ -28947,7 +28947,7 @@ Pachuca de Soto,2024,COG48,Donativos,0.00,0.00,x
 Pachuca de Soto,2024,COG49,Transferencias al Exterior,0.00,0.00,x
 Pachuca de Soto,2024,COG05,"Bienes Muebles, Inmuebles e Intangibles",29912257.00,14982272.45,x
 Pachuca de Soto,2024,COG51,Mobiliario y Equipo de Administración,5014677.00,1202408.97,x
-Pachuca de Soto,2024,COG52,Mobiliario y Equipo Educacional y Recreativo,65000.00,803290a891db124279cc88db3e067ee7216d77098662be0bc46b6b9f7122a518.xlsx,x
+Pachuca de Soto,2024,COG52,Mobiliario y Equipo Educacional y Recreativo,65000.00,803290,x
 Pachuca de Soto,2024,COG53,Equipo e Instrumental Médico y de Laboratorio,0.00,798080.00,x
 Pachuca de Soto,2024,COG54,Vehículos y Equipo de Transporte,3007200.00,12076691.56,x
 Pachuca de Soto,2024,COG55,Equipo de Defensa y Seguridad,18300000.00,890880.00,x

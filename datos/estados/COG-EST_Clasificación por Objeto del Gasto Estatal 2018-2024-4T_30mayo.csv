@@ -1,4 +1,4 @@
-﻿Estado,Año,Código,Concepto,Aprobado,Devengado,Observaciones
+Estado,Año,Código,Concepto,Aprobado,Devengado,Observaciones
 Aguascalientes,2018,COG01, Servicios Personales               ,1299194000.00,1191740000.00,x
 Aguascalientes,2018,COG11,Remuneraciones al Personal  de Carácter Permanente,686931000.00,602781000.00,x
 Aguascalientes,2018,COG12,Remuneraciones al Personal  de Carácter Transitorio,0.00,13809000.00,x
@@ -15038,13 +15038,13 @@ Hidalgo,2024,COG96,Apoyos Financieros,0.00,0.00,x
 Hidalgo,2024,COG97,Adeudos de Ejercicios Fiscales Anteriores (ADEFAS)1,0.00,0.00,x
 Hidalgo,2024,COGTOT,Total del Gasto,65679511460.00,68750904363.36,x
 Jalisco,2024,COG01, Servicios Personales               ,48298056262.00,46973216836.00,x
-Jalisco,2024,COG11,Remuneraciones al Personal  de Carácter Permanente,11.480.479.213,20.166.512.201,x
-Jalisco,2024,COG12,Remuneraciones al Personal  de Carácter Transitorio,164.002.735,168.979.436,x
-Jalisco,2024,COG13,Remuneraciones Adicionales y Especiales,4.063.852.558,11.219.127.634,x
-Jalisco,2024,COG14,Seguridad Social,3.546.976.302,5.636.942.189,x
-Jalisco,2024,COG15,Otras Prestaciones Sociales y Económicas,2.928.684.222,7.566.030.711,x
-Jalisco,2024,COG16,Previsiones,24.419.318.848,0.00,x
-Jalisco,2024,COG17,Pago de Estímulos a Servidores Públicos,1.694.742.384,2.215.624.665,x
+Jalisco,2024,COG11,Remuneraciones al Personal  de Carácter Permanente,11480479213,20166512201,x
+Jalisco,2024,COG12,Remuneraciones al Personal  de Carácter Transitorio,164002735,168979436,x
+Jalisco,2024,COG13,Remuneraciones Adicionales y Especiales,4063852558,11219127634,x
+Jalisco,2024,COG14,Seguridad Social,3546976302,5636942189,x
+Jalisco,2024,COG15,Otras Prestaciones Sociales y Económicas,2928684222,7566030711,x
+Jalisco,2024,COG16,Previsiones,24419318848,0.00,x
+Jalisco,2024,COG17,Pago de Estímulos a Servidores Públicos,1694742384,2215624665,x
 Jalisco,2024,COG02,Materiales y Suministros           ,1793104529.00,2305717536.74,x
 Jalisco,2024,COG21,"Materiales de Administración, Emisión de Documentos y Artículos Oficiales",341376354.00,412471047.32,x
 Jalisco,2024,COG22,Alimentos y Utensilios,635977038.00,723611159.30,x
