@@ -1,4 +1,4 @@
-﻿Municipio,Año,Código,Concepto,Aprobado,Devengado,Observaciones
+Municipio,Año,Código,Concepto,Aprobado,Devengado,Observaciones
 Acapulco de Juarez,2018,EAA,Impuestos,538334278.84,720703993.52,x
 Acapulco de Juarez,2018,EAB,Cuotas y Aportaciones de Seguridad Social,0.00,0.00,x
 Acapulco de Juarez,2018,EAC,Contribuciones de Mejoras,0.00,0.00,x
@@ -13310,29 +13310,29 @@ Aguascalientes,2022,EAR,INGRESOS DERIVADOS DE FINANCIAMIENTOS,0.00,0.00,x
 Aguascalientes,2022,EAR1,Ingresos Derivados de Financiamientos,0.00,0.00,x
 Aguascalientes,2022,EATOTAL,TOTAL DE LOS INGRESOS,4179939500.00,4189419521.00,x
 Apodaca,2022,EAA,Impuestos,636696233.00,884133389.21,x
-Apodaca,2022,EAB,Cuotas y Aportaciones de Seguridad Social,0 00,0.00,x
-Apodaca,2022,EAC,Contribuciones de Mejoras,0 00,2093465.29,x
+Apodaca,2022,EAB,Cuotas y Aportaciones de Seguridad Social,0.00,0.00,x
+Apodaca,2022,EAC,Contribuciones de Mejoras,0.00,2093465.29,x
 Apodaca,2022,EAD,Derechos,154398879.00,214020364.87,x
 Apodaca,2022,EAE,Productos,3679226.00,7557558.13,x
 Apodaca,2022,EAF,Aprovechamientos,62037036.00,75613742.52,x
-Apodaca,2022,EAG,Ingresos por Ventas de Bienes y Servicios,0 00,0.00,x
+Apodaca,2022,EAG,Ingresos por Ventas de Bienes y Servicios,0.00,0.00,x
 Apodaca,2022,EAH,Participaciones,586026359.00,717226079.28,x
 Apodaca,2022,EAH1,Fondo General de Participaciones,399476756.00,490916054.60,x
 Apodaca,2022,EAH2,Fondo de Fomento Municipal,66097556.00,85050738.81,x
 Apodaca,2022,EAH3,Fondo de Fiscalización y Recaudación,23344635.00,25506015.49,x
-Apodaca,2022,EAH4,Fondo de Compensación,0 00,0.00,x
+Apodaca,2022,EAH4,Fondo de Compensación,0.00,0.00,x
 Apodaca,2022,EAH5,Fondo de Extracción de hidrocarburos,13922702.00,0.00,x
-Apodaca,2022,EAH6,Impuesto Especial Sobre Producción y Servicios,0 00,14757382.65,x
-Apodaca,2022,EAH7,0.136% de la Recaudación Federal Participable,0 00,0.00,x
+Apodaca,2022,EAH6,Impuesto Especial Sobre Producción y Servicios,0.00,14757382.65,x
+Apodaca,2022,EAH7,0.136% de la Recaudación Federal Participable,0.00,0.00,x
 Apodaca,2022,EAH8,3.17% Sobre Extracción de Petroleo,15866148.00,0.00,x
 Apodaca,2022,EAH9,Gasolinas y Diésel,67318562.00,21344837.98,x
 Apodaca,2022,EAH10,Fondo de Impuesto Sobre la Renta,0.00,79651049.75,x
 Apodaca,2022,EAH11,Fondo de Estabilización de los Ingresos de las Entidades Federativas,0.00,0.00,x
-Apodaca,2022,EAI,Incentivos Derivados de la Colaboración Fiscal,204210764.00,349650553.51,x
+Apodaca,2022,EAI,Incentivos Derivados de la Colaboración Fiscal,204210764.00,349650553.51,x0.00
 Apodaca,2022,EAI1,Tenencia o Uso de Vehículos,0.00,109177.94,x
 Apodaca,2022,EAI2,Fondo de Compensación ISAN,0.00,0.00,x
 Apodaca,2022,EAI3,Impuesto Sobre Automóviles Nuevos,14030237.00,22277986.53,x
-Apodaca,2022,EAI4,Fondo de Compensación de Repecos-Intermedios,0 00,0.00,x
+Apodaca,2022,EAI4,Fondo de Compensación de Repecos-Intermedios,0.00,0.00,x
 Apodaca,2022,EAI5,Otros Incentivos Económicos,190180527.00,327263389.04,x
 Apodaca,2022,EAJ,Transferencias,0.00,0.00,x
 Apodaca,2022,EAK,Convenios,0.00,0.00,x
@@ -15420,7 +15420,7 @@ Saltillo,2022,EAH10,Fondo de Impuesto Sobre la Renta,176776444.00,194552457.00,x
 Saltillo,2022,EAH11,Fondo de Estabilización de los Ingresos de las Entidades Federativas,13988390.12,-1040479.00,x
 Saltillo,2022,EAI,Incentivos Derivados de la Colaboración Fiscal,22353523.25,26991383.00,x
 Saltillo,2022,EAI1,Tenencia o Uso de Vehículos,0.00,0.00,x
-Saltillo,2022,EAI2,Fondo de Compensación ISAN,o.oo,o.oo,x
+Saltillo,2022,EAI2,Fondo de Compensación ISAN,0.00,0.00,x
 Saltillo,2022,EAI3,Impuesto Sobre Automóviles Nuevos,22353523.25,26991383.00,x
 Saltillo,2022,EAI4,Fondo de Compensación de Repecos-Intermedios,0.00,0.00,x
 Saltillo,2022,EAI5,Otros Incentivos Económicos,0.00,0.00,x
@@ -15546,11 +15546,9 @@ Tlaxcala,2022,EAM1,Fondo de Aportaciones para la Nómina Educativa y gasto opera
 Tlaxcala,2022,EAM2,Fondo de Aportaciones para los servicios de Salud,0.00,0.00,x
 Tlaxcala,2022,EAM3,Fondo de Aportaciones para la infraestructura Social,0.00,0.00,x
 Tlaxcala,2022,EAM4,Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal,0.00,0.00,x
-Tlaxcala,2022,EAM5,Fondo de Aportaciones Múltiples,0.00,"0.00
- 0.00",x
+Tlaxcala,2022,EAM5,Fondo de Aportaciones Múltiples,0.00,0.00,x
 Tlaxcala,2022,EAM6,Fondo de Aportaciones para la Educación Tecnológica y de adultos,0.00,0.00,x
-Tlaxcala,2022,EAM7,Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal,0.00,"0.00
- 0.00",x
+Tlaxcala,2022,EAM7,Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal,0.00,00.00,x
 Tlaxcala,2022,EAM8,Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas,0.00,0.00,x
 Tlaxcala,2022,EAN,Convenios,0.00,0.00,x
 Tlaxcala,2022,EAN1,Convenios de Protección Social en Salud,0.00,0.00,x
@@ -16629,7 +16627,7 @@ Apodaca,2023,EAH7,0.136% de la Recaudación Federal Participable,0.00,0.00,x
 Apodaca,2023,EAH8,3.17% Sobre Extracción de Petroleo,0.00,0.00,x
 Apodaca,2023,EAH9,Gasolinas y Diésel,22099472.00,26054877.07,x
 Apodaca,2023,EAH10,Fondo de Impuesto Sobre la Renta,80905820.00,105463735.12,x
-Apodaca,2023,EAH11,Fondo de Estabilización de los Ingresos de las Entidades Federativas,0.00,0 00,x
+Apodaca,2023,EAH11,Fondo de Estabilización de los Ingresos de las Entidades Federativas,0.00,0.00,x
 Apodaca,2023,EAI,Incentivos Derivados de la Colaboración Fiscal,265345213.00,471911499.72,x
 Apodaca,2023,EAI1,Tenencia o Uso de Vehículos,0.00,0.00,x
 Apodaca,2023,EAI2,Fondo de Compensación ISAN,0.00,0.00,x
@@ -21551,7 +21549,7 @@ Morelia,2024,EAN,Convenios,0.00,0.00,x
 Morelia,2024,EAN1,Convenios de Protección Social en Salud,0.00,0.00,x
 Morelia,2024,EAN2,Convenios de Descentralización,0.00,0.00,x
 Morelia,2024,EAN3,Convenios de Reasignación,0.00,0.00,x
-Morelia,2024,EAN4,Otros Convenios y Subsidios,0.0Q,0.00,x
+Morelia,2024,EAN4,Otros Convenios y Subsidios,0.00,0.00,x
 Morelia,2024,EAO,Fondos Distintos de Aportaciones ,0.00,0.00,x
 Morelia,2024,EAO1,Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos,0.00,0.00,x
 Morelia,2024,EAO2,Fondo Minero,0.00,0.00,x
