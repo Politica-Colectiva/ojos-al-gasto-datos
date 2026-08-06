@@ -27,7 +27,7 @@ Hemos desarrollado una plataforma abierta que permite explorar, visualizar y com
 ## Consulta los datos
 
 ### Fuentes de Datos
-La información presupuestaria que publicamos en _Ojos al Gasto_ proviene de la Cuenta Pública de cada gobierno estatal o municipal. La Cuenta Pública es el documento oficial en el que todos los gobiernos del país transparentan su presupuesto aprobado y el avance en el ejercicio del gasto de manera trimestral. Revisamos la información presupuestaria de los 32 gobiernos estatales y 60 municipios del país.
+La información presupuestaria que publicamos en _Ojos al Gasto_ proviene de la Cuenta Pública de cada gobierno estatal o municipal. La Cuenta Pública es el documento oficial en el que todos los gobiernos del país transparentan su presupuesto aprobado y el avance en el ejercicio del gasto de manera trimestral. Revisamos la información presupuestaria de los 32 gobiernos estatales y 65 municipios del país.
 
 Los datos de los presupuestos de los Estados se obtienen a través de solicitudes de transparencia y se presentan en dos formas: datos originales y datos procesados, que el equipo de Política Colectiva sistematiza, procesa y mantiene.
 
