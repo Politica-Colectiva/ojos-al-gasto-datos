@@ -17,7 +17,7 @@ Este proyecto surge de la necesidad de una mayor transparencia y participación 
 4. Descentralizar y desfederalizar la discusión pública de los presupuestos públicos.
 
 ## Sobre la plataforma
-Hemos desarrollado una plataforma abierta que permite explorar, visualizar y comparar la información solicitada a los 32 estados del país y a 60 municipios, entre los que están las capitales de cada estado y los municipios más poblados.
+Hemos desarrollado una plataforma abierta que permite explorar, visualizar y comparar la información solicitada a los 32 estados del país y a 65 municipios, entre los que están las capitales de cada estado y los municipios más poblados.
 
 ![ojosalgasto-demo-01-min](https://github.com/Politica-Colectiva/ojos-al-gasto-datos/assets/6744123/686b66c8-4d3f-41bf-be13-e908ec58621f)
 
